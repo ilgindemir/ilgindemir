@@ -9,6 +9,7 @@
 
 * 🛒 **[Kantinx](https://github.com/ilgindemir/kantinx):** Okul kantinleri için geliştirilmiş yeni nesil dijital yönetim sistemi. 
   * 🌐 **Canlı Ürün Web Sitesi:** [kantinx.com](https://kantinx.com)
+  * BU ürün ve repo tam çalışır halde ve SATILIKTIR.
 * 📊 **[BUSINESS-AI](https://github.com/ilgindemir/BUSSINES-AI):** Kurum içi (on-premise) çalışan, gizlilik odaklı ve air-gapped (internetsiz) Enterprise AI altyapı mimarisi (PrivateAI Appliance).
 * 🔍 **[TruthLens (Yalan Dedektörü)](https://github.com/ilgindemir/Yalan-Dedektoru):** Multimodal (çok modlu) AI davranış analizi, yüz/ses takibi ve conversational consistency (konuşma tutarlılığı) motoru.
 * 🎓 **[Eğitim Koçu](https://github.com/ilgindemir/egitim-kocu):** Öğrenciler için yapay zekâ destekli rehberlik ve akademik takip asistanı.
@@ -28,9 +29,6 @@
 * 🛡️ **Zero-Trust:** Güvenlik, veri izolasyonu ve KVKK uyumu kodun ilk satırından başlar.
 * 📦 **Production-Ready:** Sadece prototip değil; kurumsal ölçekte üretime ve satışa hazır temiz mimari.
 * 🩺 **Geleceğe Hazırlık:** Bugün kurumsal sistemleri ve yapay zekâ altyapılarını kodlayarak yarının dijital sağlık teknolojilerini inşa ediyorum.
-
-[![E-posta](https://shields.io📬-blue?style=for-the-badge)](mailto:ilgindemir0812@gmail.com)
-[![Website](https://shields.io🌐-success?style=for-the-badge)](https://kantinx.com)
 
 
 > *"Bugün satır satır kodları iyileştiriyorum, yarın ise hayatları."* 💻✨
