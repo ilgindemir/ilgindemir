@@ -29,6 +29,10 @@
 * 📦 **Production-Ready:** Sadece prototip değil; kurumsal ölçekte üretime ve satışa hazır temiz mimari.
 * 🩺 **Geleceğe Hazırlık:** Bugün kurumsal sistemleri ve yapay zekâ altyapılarını kodlayarak yarının dijital sağlık teknolojilerini inşa ediyorum.
 
+[![E-posta](https://shields.io📬-blue?style=for-the-badge)](mailto:ilgindemir0812@gmail.com)
+[![Website](https://shields.io🌐-success?style=for-the-badge)](https://kantinx.com)
+
+
 > *"Bugün satır satır kodları iyileştiriyorum, yarın ise hayatları."* 💻✨
 
 ---
